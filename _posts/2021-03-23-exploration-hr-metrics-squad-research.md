@@ -9,7 +9,7 @@ excerpt_separator: ''
 
 **See the working document:** [**HR Analytics & Squad Research**](https://docs.google.com/document/d/1Cj1o63UEV8qP7M0ZWw0tyic1fF37vx2TL3a6E099pNA/edit?usp=sharing)**.**
 
-I did not find anything that looks like our squad mock-up. Still, I did discover the Interpersonal Dynamics Inventory (IDI) and DARMA software that will be useful for future brainstorming and iterations of our squad feature. I also shared a stellar whitepaper on the current status of teams (linked in the working document) in our #reading-list Slack channel.
+I did not find anything that looks like our squad mock-up. Still, I did discover the Interpersonal Dynamics Inventory (IDI) and DARMA software that will be useful for future brainstorming and iterations of our squad feature. I also shared a stellar white-paper on the current state of teams (linked in the working document) in our #reading-list Slack channel.
 
 Following up on a previous task, I looked for research-backed sources to add to our understanding of meeting health. A few terms like _social loafing_ and the _contagion effect_ (regarding mood mirroring at the beginning of meetings) may be worth looking into.
 
